@@ -34,5 +34,5 @@ This is a Python bot that takes on [MonkeyType](https://monkeytype.com) and crus
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/monkeytype-automation.git
+   git clone https://github.com/ShresthKrishna/monkeytype-automation.git
    cd monkeytype-automation
