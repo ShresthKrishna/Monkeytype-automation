@@ -16,7 +16,6 @@ This is a Python bot that takes on [MonkeyType](https://monkeytype.com) and crus
 
 ## 📸 Preview
 
-> *(Optional: Add a GIF or screenshot of it typing super fast on MonkeyType)*
 
 ---
 
